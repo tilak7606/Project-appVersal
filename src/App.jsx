@@ -1,6 +1,6 @@
 // src/App.js
 import React from 'react';
-import { useAppState } from './hooks/useAppState';
+import { useAppState } from './Hooks/UseAppState';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import SummaryCards from './components/SumarryCards';
