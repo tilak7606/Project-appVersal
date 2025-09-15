@@ -9,7 +9,7 @@ import {
   Tooltip, 
   ResponsiveContainer
 } from 'recharts';
-import Card from './ui/Card';
+import Card from "./UI/Card";
 import { MockData } from '../Data/MockData';
 
 const PerformanceTrends = () => (
