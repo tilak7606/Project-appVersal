@@ -1,7 +1,7 @@
 // src/components/SummaryCards.js
 import React from 'react';
 import { Target, DollarSign, MousePointer, TrendingUp, Eye, Users } from 'lucide-react';
-import Card from './ui/Card';
+import Card from './UI/Card';
 
 const SummaryCards = () => {
   const cards = [
